@@ -48,7 +48,55 @@
 	"Wallpapers":
         [
 			
-          
+           {
+                "author":"1",
+                "url": "https://i.pinimg.com/736x/bb/2b/6a/bb2b6ac9a327999c7f3c05521e03a26e--islamic-wallpaper-hd-wallpaper.jpg",
+                "thumbUrl": "https://i.pinimg.com/736x/bb/2b/6a/bb2b6ac9a327999c7f3c05521e03a26e--islamic-wallpaper-hd-wallpaper.jpg",
+                "name": "Gotham",
+                "category": "People"
+            },
+		 {
+                "author":"2",
+                "url": "http://gzsihai.com/data/out/93/im-500887672.jpg",
+                "thumbUrl": "http://gzsihai.com/data/out/93/im-500887672.jpg",
+                "name": "Gotham",
+                "category": "People"
+            },
+		 {
+                "author":"3",
+                "url": "http://orig14.deviantart.net/f08a/f/2014/188/9/4/iphone_5_5s_wallpaper_islam_by_memedalilimani-d7pp72h.jpg",
+                "thumbUrl": "http://orig14.deviantart.net/f08a/f/2014/188/9/4/iphone_5_5s_wallpaper_islam_by_memedalilimani-d7pp72h.jpg",
+                "name": "Gotham",
+                "category": "People"
+            },
+		 {
+                "author":"4",
+                "url": "https://images5.alphacoders.com/546/546992.jpg",
+                "thumbUrl": "https://images5.alphacoders.com/546/546992.jpg",
+                "name": "Gotham",
+                "category": "People"
+            },
+		 {
+                "author":"5",
+                "url": "https://lh3.googleusercontent.com/nA3VKdIe4NV2WV6u6p6VupDC7w7dzbdUsikopgs-xDepRdyxItsiAMAIWY3EJJsyRlo=h900",
+                "thumbUrl": "https://lh3.googleusercontent.com/nA3VKdIe4NV2WV6u6p6VupDC7w7dzbdUsikopgs-xDepRdyxItsiAMAIWY3EJJsyRlo=h900",
+                "name": "Gotham",
+                "category": "People"
+            },
+		 {
+                "author":"6",
+                "url": "http://www.islamlaws.com/wp-content/uploads/2011/01/Islamic-Wallpapers-37.jpg",
+                "thumbUrl": "http://www.islamlaws.com/wp-content/uploads/2011/01/Islamic-Wallpapers-37.jpg",
+                "name": "Gotham",
+                "category": "People"
+            },
+		 {
+                "author":"zzzzzzzzzzzzzzzzzzzzzzzzzzzzz",
+                "url": "http://cdn2.thr.com/sites/default/files/2015/08/gotham_header_h_2015.jpg",
+                "thumbUrl": "http://cdn2.thr.com/sites/default/files/2015/08/gotham_header_h_2015.jpg",
+                "name": "Gotham",
+                "category": "People"
+            },
 		 {
                 "author":"zzzzzzzzzzzzzzzzzzzzzzzzzzzzz",
                 "url": "http://cdn2.thr.com/sites/default/files/2015/08/gotham_header_h_2015.jpg",
