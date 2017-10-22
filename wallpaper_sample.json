@@ -55,6 +55,13 @@
                 "thumbUrl": "http://cdn2.thr.com/sites/default/files/2015/08/gotham_header_h_2015.jpg",
                 "name": "Gotham",
                 "category": "People"
+            },
+		 {
+                "author":"wwww",
+                "url": "http://i.imgur.com/JcUgbWg.jpg",
+                "thumbUrl": "http://i.imgur.com/JcUgbWg.jpg",
+                "name": "Batman",
+                "category": "People"
             }
 		]
 }
