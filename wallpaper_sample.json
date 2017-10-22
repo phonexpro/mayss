@@ -319,6 +319,13 @@
                 "thumbUrl": "https://porting-team.ru/wp-content/uploads/2017/09/flowers_peonies_bicycle_hand_117104_5472x3648.jpg",
                 "name": "Flowers peonies bicycle",
                 "category": "Forest,people"
+            },
+		 {
+                "author":"Test",
+                "url": "http://cdn2.thr.com/sites/default/files/2015/08/gotham_header_h_2015.jpg",
+                "thumbUrl": "http://cdn2.thr.com/sites/default/files/2015/08/gotham_header_h_2015.jpg",
+                "name": "Gotham",
+                "category": "Forest,people"
             }
 		]
 }
