@@ -2,47 +2,25 @@
     "Categories": 
         [
             {
-                "name": "People"
+                "name": "Birds"
             },
             {
-                "name": "Architecture"
-            },
-            {
-                "name": "City"
-            },
-            {
-                "name": "Mountain"
-            },
-            {
-                "name": "Forest"
-            },
-            {
-                "name": "Sunset"
+                "name": "Mosques"
             },
             {
                 "name": "Nature"
             },
             {
-                "name": "Satellite"
+                "name": "The space"
             },
-            {
+		 {
+                "name": "Office design"
+            },
+		 {
                 "name": "Animal"
-            },
-            {
-                "name": "Ocean"
-            },
-            {
-                "name": "Beach"
-            },
-            {
-                "name": "Road"
-            },
-            {
-                "name": "Black and White"
-            },
-            {
-                "name": "House"
             }
+		
+		
         ],
     
 	"Wallpapers":
@@ -50,66 +28,215 @@
 			
            {
                 "author":"1",
-                "url": "https://i.pinimg.com/736x/bb/2b/6a/bb2b6ac9a327999c7f3c05521e03a26e--islamic-wallpaper-hd-wallpaper.jpg",
-                "thumbUrl": "https://i.pinimg.com/736x/bb/2b/6a/bb2b6ac9a327999c7f3c05521e03a26e--islamic-wallpaper-hd-wallpaper.jpg",
-                "name": "Gotham",
-                "category": "People"
+                "url": "https://i.pinimg.com/736x/bb/c5/da/bbc5da9ba2808390b5e416792bd59a7d--desktop-wallpapers-hd-wallpaper.jpg",
+                "thumbUrl": "https://i.pinimg.com/736x/bb/c5/da/bbc5da9ba2808390b5e416792bd59a7d--desktop-wallpapers-hd-wallpaper.jpg",
+                "name": "",
+                "category": "Birds"
             },
-		 {
-                "author":"2",
-                "url": "http://gzsihai.com/data/out/93/im-500887672.jpg",
-                "thumbUrl": "http://gzsihai.com/data/out/93/im-500887672.jpg",
-                "name": "Gotham",
-                "category": "People"
+		{
+                "author":"1",
+                "url": "http://2.bp.blogspot.com/-cfQNPwdDvug/UrK1lwrI0CI/AAAAAAAAAHg/7NNPVp0hhd0/s1600/Bird_of_Paradise+1.jpg",
+                "thumbUrl": "http://2.bp.blogspot.com/-cfQNPwdDvug/UrK1lwrI0CI/AAAAAAAAAHg/7NNPVp0hhd0/s1600/Bird_of_Paradise+1.jpg",
+                "name": "",
+                "category": "Birds"
             },
-		 {
-                "author":"3",
-                "url": "http://orig14.deviantart.net/f08a/f/2014/188/9/4/iphone_5_5s_wallpaper_islam_by_memedalilimani-d7pp72h.jpg",
-                "thumbUrl": "http://orig14.deviantart.net/f08a/f/2014/188/9/4/iphone_5_5s_wallpaper_islam_by_memedalilimani-d7pp72h.jpg",
-                "name": "Gotham",
-                "category": "People"
+		{
+                "author":"1",
+                "url": "https://terrydarc.files.wordpress.com/2010/11/best-birds-of-africa-03.jpg",
+                "thumbUrl": "https://terrydarc.files.wordpress.com/2010/11/best-birds-of-africa-03.jpg",
+                "name": "",
+                "category": "Birds"
             },
-		 {
-                "author":"4",
-                "url": "https://images5.alphacoders.com/546/546992.jpg",
-                "thumbUrl": "https://images5.alphacoders.com/546/546992.jpg",
-                "name": "Gotham",
-                "category": "People"
+		{
+                "author":"1",
+                "url": "http://talesfromthebackroad.com/wp-content/uploads/2015/01/Cardinal-1-of-1.jpg",
+                "thumbUrl": "http://talesfromthebackroad.com/wp-content/uploads/2015/01/Cardinal-1-of-1.jpg",
+                "name": "",
+                "category": "Birds"
             },
-		 {
-                "author":"5",
-                "url": "https://lh3.googleusercontent.com/nA3VKdIe4NV2WV6u6p6VupDC7w7dzbdUsikopgs-xDepRdyxItsiAMAIWY3EJJsyRlo=h900",
-                "thumbUrl": "https://lh3.googleusercontent.com/nA3VKdIe4NV2WV6u6p6VupDC7w7dzbdUsikopgs-xDepRdyxItsiAMAIWY3EJJsyRlo=h900",
-                "name": "Gotham",
-                "category": "People"
+		{
+                "author":"1",
+                "url": "https://i.pinimg.com/736x/1b/e4/94/1be494d4edf877a34ed9950aa55afb9c--the-zoo-ears.jpg",
+                "thumbUrl": "https://i.pinimg.com/736x/1b/e4/94/1be494d4edf877a34ed9950aa55afb9c--the-zoo-ears.jpg",
+                "name": "",
+                "category": "Birds"
             },
-		 {
-                "author":"6",
-                "url": "http://www.islamlaws.com/wp-content/uploads/2011/01/Islamic-Wallpapers-37.jpg",
-                "thumbUrl": "http://www.islamlaws.com/wp-content/uploads/2011/01/Islamic-Wallpapers-37.jpg",
-                "name": "Gotham",
-                "category": "People"
+		{
+                "author":"1",
+                "url": "https://i.pinimg.com/564x/49/87/e2/4987e26096150b06f75fcf5ec1cad2d1.jpg",
+                "thumbUrl": "https://i.pinimg.com/564x/49/87/e2/4987e26096150b06f75fcf5ec1cad2d1.jpg",
+                "name": "",
+                "category": "Mosques"
             },
-		 {
-                "author":"zzzzzzzzzzzzzzzzzzzzzzzzzzzzz",
-                "url": "http://cdn2.thr.com/sites/default/files/2015/08/gotham_header_h_2015.jpg",
-                "thumbUrl": "http://cdn2.thr.com/sites/default/files/2015/08/gotham_header_h_2015.jpg",
-                "name": "Gotham",
-                "category": "People"
+		{
+                "author":"1",
+                "url": "https://i.pinimg.com/564x/57/45/6c/57456c21e9a50abb4f2e7de615ffa867.jpg",
+                "thumbUrl": "https://i.pinimg.com/564x/57/45/6c/57456c21e9a50abb4f2e7de615ffa867.jpg",
+                "name": "",
+                "category": "Mosques"
             },
-		 {
-                "author":"zzzzzzzzzzzzzzzzzzzzzzzzzzzzz",
-                "url": "http://cdn2.thr.com/sites/default/files/2015/08/gotham_header_h_2015.jpg",
-                "thumbUrl": "http://cdn2.thr.com/sites/default/files/2015/08/gotham_header_h_2015.jpg",
-                "name": "Gotham",
-                "category": "People"
+		{
+                "author":"1",
+                "url": "https://i.pinimg.com/564x/42/e6/be/42e6be23e6befa4d71814f7ff91631da.jpg",
+                "thumbUrl": "https://i.pinimg.com/564x/42/e6/be/42e6be23e6befa4d71814f7ff91631da.jpg",
+                "name": "",
+                "category": "Mosques"
             },
-		 {
-                "author":"wwww",
-                "url": "http://i.imgur.com/JcUgbWg.jpg",
-                "thumbUrl": "http://i.imgur.com/JcUgbWg.jpg",
-                "name": "Batman",
-                "category": "People"
+		{
+                "author":"1",
+                "url": "https://i.pinimg.com/564x/da/4b/a7/da4ba7c1487059df66efafd3945671cb.jpg",
+                "thumbUrl": "https://i.pinimg.com/564x/da/4b/a7/da4ba7c1487059df66efafd3945671cb.jpg",
+                "name": "",
+                "category": "Mosques"
+            },
+		{
+                "author":"1",
+                "url": "https://i.pinimg.com/564x/aa/3d/34/aa3d34e79418b8dd56a03ea9f8ac7791.jpg",
+                "thumbUrl": "https://i.pinimg.com/564x/aa/3d/34/aa3d34e79418b8dd56a03ea9f8ac7791.jpg",
+                "name": "",
+                "category": "Mosques"
+            },
+		{
+                "author":"1",
+                "url": "https://i.pinimg.com/564x/04/58/48/045848fbb000fe9f370d3510f35d8b9f.jpg",
+                "thumbUrl": "https://i.pinimg.com/564x/04/58/48/045848fbb000fe9f370d3510f35d8b9f.jpg",
+                "name": "",
+                "category": "Mosques"
+            },
+		{
+                "author":"1",
+                "url": "https://i.pinimg.com/564x/e7/3a/8a/e73a8a1a269ac5585699ea21b6937d06.jpg",
+                "thumbUrl": "https://i.pinimg.com/564x/e7/3a/8a/e73a8a1a269ac5585699ea21b6937d06.jpg",
+                "name": "",
+                "category": "Mosques"
+            },
+		{
+                "author":"1",
+                "url": "http://www.intrawallpaper.com/static/images/776605-cool-nature-wallpaper.jpg",
+                "thumbUrl": "http://www.intrawallpaper.com/static/images/776605-cool-nature-wallpaper.jpg",
+                "name": "",
+                "category": "Nature"
+            },
+		{
+                "author":"1",
+                "url": "https://i.ytimg.com/vi/x30YOmfeVTE/maxresdefault.jpg",
+                "thumbUrl": "https://i.ytimg.com/vi/x30YOmfeVTE/maxresdefault.jpg",
+                "name": "",
+                "category": "Nature"
+            },
+		{
+                "author":"1",
+                "url": "http://uk.france.fr/sites/default/files/imagecache/ATF_Image_bandeau_v2/la_france_cote_nature_1.jpg",
+                "thumbUrl": "http://uk.france.fr/sites/default/files/imagecache/ATF_Image_bandeau_v2/la_france_cote_nature_1.jpg",
+                "name": "",
+                "category": "Nature"
+            },
+		{
+                "author":"1",
+                "url": "https://iso.500px.com/wp-content/uploads/2016/03/stock-photo-142984111-1500x1000.jpg",
+                "thumbUrl": "https://iso.500px.com/wp-content/uploads/2016/03/stock-photo-142984111-1500x1000.jpg",
+                "name": "",
+                "category": "Nature"
+            },
+		{
+                "author":"1",
+                "url": "https://media.wired.com/photos/5938ac89a88f414d9a8cc6b8/master/w_4928,c_limit/27315178742_79b8ef638a_o.jpg",
+                "thumbUrl": "https://media.wired.com/photos/5938ac89a88f414d9a8cc6b8/master/w_4928,c_limit/27315178742_79b8ef638a_o.jpg",
+                "name": "",
+                "category": "The space"
+            },
+		{
+                "author":"1",
+                "url": "http://wp.patheos.com.s3.amazonaws.com/blogs/allergicpagan/files/2014/02/The_space_between___Version_2_by_pincel3d.jpg",
+                "thumbUrl": "http://wp.patheos.com.s3.amazonaws.com/blogs/allergicpagan/files/2014/02/The_space_between___Version_2_by_pincel3d.jpg",
+                "name": "",
+                "category": "The space"
+            },
+		{
+                "author":"1",
+                "url": "https://www.isi.edu/sites/default/files/centers/serc/serc_space.jpg",
+                "thumbUrl": "https://www.isi.edu/sites/default/files/centers/serc/serc_space.jpg",
+                "name": "",
+                "category": "The space"
+            },
+		{
+                "author":"1",
+                "url": "http://www.fubiz.net/wp-content/uploads/2012/04/the-space-we-live-in5.jpg",
+                "thumbUrl": "http://www.fubiz.net/wp-content/uploads/2012/04/the-space-we-live-in5.jpg",
+                "name": "",
+                "category": "The space"
+            },
+		{
+                "author":"1",
+                "url": "http://wwwcdn.howdesign.com/wp-content/uploads/office-design-4-600x400.png",
+                "thumbUrl": "http://wwwcdn.howdesign.com/wp-content/uploads/office-design-4-600x400.png",
+                "name": "",
+                "category": "Office design"
+			
+			
+            },
+		{
+                "author":"1",
+                "url": "https://i.pinimg.com/originals/60/30/c3/6030c38a8404643a74ede98370d91946.jpg",
+                "thumbUrl": "https://i.pinimg.com/originals/60/30/c3/6030c38a8404643a74ede98370d91946.jpg",
+                "name": "",
+                "category": "Office design"
+			
+			
+            },
+		{
+                "author":"1",
+                "url": "https://i.pinimg.com/736x/33/45/01/3345019473d8fab5ef68c12c34806079--home-office-designs-home-office-interior-design.jpg",
+                "thumbUrl": "https://i.pinimg.com/736x/33/45/01/3345019473d8fab5ef68c12c34806079--home-office-designs-home-office-interior-design.jpg",
+                "name": "",
+                "category": "Office design"
+			
+			
+            },
+		{
+                "author":"1",
+                "url": "http://eistplus.com/images/The-Best-New-York-City-Office-Design.jpg",
+                "thumbUrl": "http://eistplus.com/images/The-Best-New-York-City-Office-Design.jpg",
+                "name": "",
+               "category": "Office design"
+			
+			
+            },
+		{
+                "author":"1",
+                "url": "https://i.pinimg.com/736x/30/f1/52/30f1526cede69f031a28f52b7158a3b1--mac-os-lion-wallpaper.jpg",
+                "thumbUrl": "https://i.pinimg.com/736x/30/f1/52/30f1526cede69f031a28f52b7158a3b1--mac-os-lion-wallpaper.jpg",
+                "name": "",
+                "category": "Animal"
+			
+			
+            },
+		{
+                "author":"1",
+                "url": "https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAA2bAAAAJDQ4MDFmNDJlLWQwZWEtNDMxMy04OWJmLTI5YzZkMzg4NzA2Yg.jpg",
+                "thumbUrl": "https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAA2bAAAAJDQ4MDFmNDJlLWQwZWEtNDMxMy04OWJmLTI5YzZkMzg4NzA2Yg.jpg",
+                "name": "",
+                "category": "Animal"
+			
+			
+            },
+		{
+                "author":"1",
+                "url": "http://www.petsworld.in/blog/wp-content/uploads/2014/09/k9-with-freind-at-shooting-range.jpg",
+                "thumbUrl": "http://www.petsworld.in/blog/wp-content/uploads/2014/09/k9-with-freind-at-shooting-range.jpg",
+                "name": "",
+                "category": "Animal"
+			
+			
+            },
+		{
+                "author":"1",
+                "url": "https://www.thisdogslife.co/wp-content/uploads/2017/05/First-Pit-Bull-Police-dog-in-Ohio_3.jpg",
+                "thumbUrl": "https://www.thisdogslife.co/wp-content/uploads/2017/05/First-Pit-Bull-Police-dog-in-Ohio_3.jpg",
+                "name": "",
+                "category": "Animal"
+			
+			
             }
 		]
 }
